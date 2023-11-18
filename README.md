@@ -11,7 +11,7 @@ Check the submission [here](https://communityfund.stellar.org/projects/soroswap-
 
 ## Deliverable 1: Indexer on Stellar/Soroban (open-source)
 
-Repository: [mercury-client](https://github.com/paltalabs/mercury-client)
+Repository: [mercury-sdk](https://github.com/paltalabs/mercury-sdk)
 
 ___
 ### Deliverable 1.1
@@ -80,7 +80,7 @@ ___
 ___
 
 # Deliverable 3: Frontend (open-source)
-
+Repository: [kwickbit_frontend_v0](https://github.com/kwickbit/kwickbit_frontend_v0)
 
 ___
 ### Deliverable 3.1
@@ -166,8 +166,9 @@ ___
 **Reviewer Instructions:** Reviewer can visit the frontend page and signup/login on the page.
 Reviewer can be given access to backend repo.
 
-**Result:** in progress
-
+**Result:**
+1. ✅ User signup/login can be tested at [KwickBit App](https://app.dev.host.kwickbit.com/) 
+2. ✅ Reviewer can inspect backend repository after requesting access.
 
 ___
 ### Deliverable 4.2
@@ -182,17 +183,6 @@ Reviewer can be given access to backend repo.
 
 ___
 ### Deliverable 4.3
-
-**Description:** Implement API to request and save wallet sources with address on database..
-
-**Reviewer Instructions:** Reviewer can add wallet from frontend app. Reviewer can see current wallets
-from frontend UI.
-Reviewer can be given access to backend repo.
-
-**Result:**
-
-___
-### Deliverable 4.4
 
 **Description:** Implement API to request and save wallet sources with address on database..
 
