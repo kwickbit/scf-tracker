@@ -3,9 +3,9 @@ Public repository to track the progress and deliverables of KwickBit through SCF
 
 Check the submission [here](https://communityfund.stellar.org/projects/soroswap-protocol-scf-14)
 
-- Pending equivalent expected hours: 18 (0.4)
 - Total expected: 400
-- Total completed (%): 9%
+- Total completed (%): 20%
+
 
 # Deliverables:
 
@@ -83,22 +83,28 @@ ___
 Repository: [kwickbit_frontend_v0](https://github.com/kwickbit/kwickbit_frontend_v0)
 
 ___
-### Deliverable 3.1
+### ✅ Deliverable 3.1
 
 **Description:** Users can signup and login on the page.
 
 **Reviewer Instructions:** Reviewer can visit the frontend page and signup/login on the page.
 
-**Result:** in-progress
+**Result:**
+1. ✅ User signup/login can be tested at [KwickBit App](https://app.dev.host.kwickbit.com/)
+2. ✅ Check tickets [ticket 3](https://github.com/kwickbit/kwickbit_frontend_v0/issues/3) and [ticket 4](https://github.com/kwickbit/kwickbit_frontend_v0/issues/4).
+
 
 ___
-### Deliverable 3.2
+### ✅ Deliverable 3.2
 
 **Description:** Users can copy paste or connect their freighter wallet.
 
 **Reviewer Instructions:** Reviewer can add his wallet address from.
 
 **Result:**
+1. ✅ Reviewer can add his wallet address at [KwickBit App Source page](https://app.dev.host.kwickbit.com/sources)
+2. ✅ Check tickets [ticket 6](https://github.com/kwickbit/kwickbit_frontend_v0/issues/6), [ticket 7](https://github.com/kwickbit/kwickbit_frontend_v0/issues/7), [ticket 8](https://github.com/kwickbit/kwickbit_frontend_v0/issues/8), [ticket 9](https://github.com/kwickbit/kwickbit_frontend_v0/issues/9).
+
 
 ___
 ### Deliverable 3.3
@@ -107,7 +113,11 @@ ___
 
 **Reviewer Instructions:** Reviewer can see on-chain transactions from the app.
 
-**Result:**
+**Result:** In Progress
+
+UI to display transactions implemented with mock data for now.
+
+1. ✅ Reviewer can see transactions at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions)
 
 ___
 ### Deliverable 3.4
@@ -171,7 +181,7 @@ Reviewer can be given access to backend repo.
 2. ✅ Reviewer can inspect backend repository after requesting access.
 
 ___
-### Deliverable 4.2
+### ✅ Deliverable 4.2
 
 **Description:** Implement queue system to publish jobs to fetch transactions on the blockchain.
 
@@ -180,9 +190,13 @@ the job is in the queue.
 Reviewer can be given access to backend repo.
 
 **Result:**
+1. ✅ User can trigger job at [KwickBit App Sources Page](https://app.dev.host.kwickbit.com/sources) and be given access to queue backend to verify the job is there.
+2. ✅ Reviewer can inspect backend repository after requesting access.
 
 ___
-### Deliverable 4.3
+
+___
+### ✅ Deliverable 4.3
 
 **Description:** Implement API to request and save wallet sources with address on database..
 
@@ -191,6 +205,10 @@ from frontend UI.
 Reviewer can be given access to backend repo.
 
 **Result:**
+1. ✅ Reviewer can add his wallet address at [KwickBit App Source page](https://app.dev.host.kwickbit.com/sources)
+2. ✅ Reviewer can see his added wallets address at [KwickBit App Source page](https://app.dev.host.kwickbit.com/sources)
+3. ✅ Reviewer can inspect backend repository after requesting access.
+
 
 ___
 ### Deliverable 4.4
