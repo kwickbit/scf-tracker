@@ -120,13 +120,16 @@ UI to display transactions implemented with mock data for now.
 1. ✅ Reviewer can see transactions at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions)
 
 ___
-### Deliverable 3.4
+### ✅ Deliverable 3.4
 
 **Description:** Users can connect their QuickBooks account using oauth2.
 
 **Reviewer Instructions:** Reviewer can connect his/her QuickBooks account within the app.
 
 **Result:**
+1. ✅ Reviewer can connect his/her QuickBooks account at [KwickBit App Integration page](https://app.dev.host.kwickbit.com/integrations)
+2. ✅ Check tickets [ticket 12](https://github.com/kwickbit/kwickbit_frontend_v0/issues/12) and [ticket 13](https://github.com/kwickbit/kwickbit_frontend_v0/issues/13)
+
 
 ___
 ### Deliverable 3.5
@@ -136,7 +139,7 @@ ___
 **Reviewer Instructions:** Reviewer can visualize his/her chart of accounts from QuickBooks when trying to publish
 a transaction to QuickBooks.
 
-**Result:**
+**Result:** In Progress
 
 ___
 ### Deliverable 3.6
@@ -146,7 +149,7 @@ ___
 **Reviewer Instructions:** Reviewer can visualize his/her invoices/bills from QuickBooks when trying to publish
 a transaction to QuickBooks.
 
-**Result:**
+**Result:** In Progress
 
 ___
 ### Deliverable 3.7
@@ -221,6 +224,7 @@ Reviewer can be given access to backend repo.
 
 
 **Result:** In progress.
+
 
 ___
 ### Deliverable 4.5
