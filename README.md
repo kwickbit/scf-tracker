@@ -4,7 +4,7 @@ Public repository to track the progress and deliverables of KwickBit through SCF
 Check the submission [here](https://communityfund.stellar.org/projects/soroswap-protocol-scf-14)
 
 - Total expected: 400
-- Total completed (%): 20%
+- Total completed (%): 25%
 
 
 # Deliverables:
@@ -118,6 +118,8 @@ ___
 UI to display transactions implemented with mock data for now.
 
 1. ✅ Reviewer can see transactions at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions)
+2. ✅ Check tickets [ticket 16](https://github.com/kwickbit/kwickbit_frontend_v0/issues/19) and [ticket 19](https://github.com/kwickbit/kwickbit_frontend_v0/issues/16)
+
 
 ___
 ### ✅ Deliverable 3.4
@@ -141,6 +143,12 @@ a transaction to QuickBooks.
 
 **Result:** In Progress
 
+UI to display chart of accounts implemented with mock data for now.
+
+1. ✅ Reviewer can see chart of accounts when checking single transaction view to push QuickBooks at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions)
+2. ✅ Check tickets [ticket 19](https://github.com/kwickbit/kwickbit_frontend_v0/issues/19)
+
+
 ___
 ### Deliverable 3.6
 
@@ -150,6 +158,13 @@ ___
 a transaction to QuickBooks.
 
 **Result:** In Progress
+
+UI to display chart of invoices/bills implemented with mock data for now.
+
+1. ✅ Reviewer can see invoices/bills when checking single transaction view to push QuickBooks at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions)
+2. ✅ Check tickets [ticket 19](https://github.com/kwickbit/kwickbit_frontend_v0/issues/19)
+
+
 
 ___
 ### Deliverable 3.7
@@ -224,6 +239,7 @@ Reviewer can be given access to backend repo.
 
 
 **Result:** In progress.
+1. ✅ Started implementing library [mercury-sdk](https://github.com/paltalabs/mercury-sdk) with [Palta Labs 🥑](https://github.com/paltalabs)
 
 
 ___
