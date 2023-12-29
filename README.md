@@ -173,7 +173,12 @@ ___
 
 **Reviewer Instructions:** Reviewer can set mappings from the app.
 
-**Result:**
+**Result:** In Progress
+
+UI to display map setting modal implemented with mock data for now.
+
+1. ✅ Not merged yet, please see ticket [ticket 14](https://github.com/kwickbit/kwickbit_frontend_v0/issues/14)
+
 
 ___
 ### Deliverable 3.8
@@ -240,10 +245,12 @@ Reviewer can be given access to backend repo.
 
 **Result:** In progress.
 1. ✅ Started implementing library [mercury-sdk](https://github.com/paltalabs/mercury-sdk) with [Palta Labs 🥑](https://github.com/paltalabs)
+2. ✅ Reviewer can trigger "fetch transactions" which will triger mercury subription to wallet address.
+Creating transactions from added wallet will be fetched later on when user click fetch transactions again. 
 
 
 ___
-### Deliverable 4.5
+### ✅ Deliverable 4.5
 
 **Description:** Implement API to request transactions saved on database.
 
@@ -251,6 +258,7 @@ ___
 Reviewer can also be given access to backend repo.
 
 **Result:**
+1. ✅ Reviewer can test API with direct API call at `/transactions`
 
 ___
 ### Deliverable 4.6
@@ -262,7 +270,9 @@ Once the backend fetching job is done, user should see new transactions appear o
 Reviewer can be given access to backend repo.
 
 
-**Result:**
+**Result:** In progress.
+1. ✅ Notification system working with console.log on the browser for now.
+
 
 ___
 ### Deliverable 4.7
