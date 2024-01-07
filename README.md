@@ -234,7 +234,7 @@ Reviewer can be given access to backend repo.
 
 
 ___
-### Deliverable 4.4
+### ✅ Deliverable 4.4
 
 **Description:** Implement callable job to fetch transactions on the blockchain and save them on database.
 
@@ -243,10 +243,12 @@ ___
 Reviewer can be given access to backend repo.
 
 
-**Result:** In progress.
+**Result:**
 1. ✅ Started implementing library [mercury-sdk](https://github.com/paltalabs/mercury-sdk) with [Palta Labs 🥑](https://github.com/paltalabs)
-2. ✅ Reviewer can trigger "fetch transactions" which will triger mercury subription to wallet address.
-Creating transactions from added wallet will be fetched later on when user click fetch transactions again. 
+2. ✅ Reviewer can trigger "fetch transactions" at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions) which will fetch on-chain transactions and save them to backend database.
+Reviewer can be given backend access to check transactions are in database.
+3. ✅ Started using Now Nodes for first time of a specific wallet address because indexer can only fetch transactions
+with createdAt after subscription time. Previous transactions must be fetched using node.
 
 
 ___
@@ -258,7 +260,7 @@ ___
 Reviewer can also be given access to backend repo.
 
 **Result:**
-1. ✅ Reviewer can test API with direct API call at `/transactions`
+1. ✅ Reviewer can request us to write simple code with API call on frontend side.
 
 ___
 ### Deliverable 4.6
