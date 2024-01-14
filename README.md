@@ -120,7 +120,6 @@ UI to display transactions implemented with mock data for now.
 1. ✅ Reviewer can see transactions at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions)
 2. ✅ Check tickets [ticket 16](https://github.com/kwickbit/kwickbit_frontend_v0/issues/19) and [ticket 19](https://github.com/kwickbit/kwickbit_frontend_v0/issues/16)
 
-
 ___
 ### ✅ Deliverable 3.4
 
@@ -263,7 +262,7 @@ Reviewer can also be given access to backend repo.
 1. ✅ Reviewer can request us to write simple code with API call on frontend side.
 
 ___
-### Deliverable 4.6
+### ✅ Deliverable 4.6
 
 **Description:** Implement Websocket to enable notifications regarding fetching transactions, invoices, bills, ledgers.
 
@@ -272,12 +271,12 @@ Once the backend fetching job is done, user should see new transactions appear o
 Reviewer can be given access to backend repo.
 
 
-**Result:** In progress.
-1. ✅ Notification system working with console.log on the browser for now.
+**Result:**
+1. ✅ Notification system working with console.log.
 
 
 ___
-### Deliverable 4.7
+### ✅ Deliverable 4.7
 
 **Description:** Implement callable job to fetch invoices/bills from QuickBooks and save them to database.
 
@@ -285,10 +284,11 @@ ___
 **Reviewer Instructions:** Reviewer can click fetch invoices and bills and be given access to backend database to check that invoices/bills are there.
 Reviewer can be given access to backend repo.
 
-**Result:**
+1. ✅ Reviewer can trigger "fetch invoices/bills" at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions) which will fetch on-chain transactions and save them to backend database.
+Reviewer can be given backend access to check invoices/bills are in database.
 
 ___
-### Deliverable 4.8
+### ✅ Deliverable 4.8
 
 **Description:** Implement API to request invoices/bills saved on database.
 
@@ -296,9 +296,11 @@ ___
 Reviewer can also be given access to backend repo.
 
 **Result:**
+1. ✅ Reviewer can request us to write simple code with API call on frontend side.
+
 
 ___
-### Deliverable 4.9
+### ✅ Deliverable 4.9
 
 **Description:** Implement callable job to fetch ledger references from QuickBooks and save them to database.
 
@@ -307,9 +309,12 @@ ___
 Reviewer can be given access to backend repo.
 
 **Result:**
+1. ✅ Reviewer can trigger "fetch ledgers" at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions) which will fetch on-chain transactions and save them to backend database.
+Reviewer can be given backend access to check invoices/bills are in database.
+
 
 ___
-### Deliverable 4.10
+### ✅ Deliverable 4.10
 
 **Description:** Implement API to request ledger references saved on database.
 
@@ -317,6 +322,7 @@ ___
 Reviewer can also be given access to backend repo.
 
 **Result:**
+1. ✅ Reviewer can request us to write simple code with API call on frontend side.
 
 ___
 ### Deliverable 4.11
