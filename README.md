@@ -14,68 +14,68 @@ Check the submission [here](https://communityfund.stellar.org/projects/soroswap-
 Repository: [mercury-sdk](https://github.com/paltalabs/mercury-sdk)
 
 ___
-### Deliverable 1.1
+### ✅ Deliverable 1.1
 **Description:** review, test case indexers subquery and mercury to choose the most fit for us.
 
 **Reviewer Instructions:** Reviewer will visit our docs on how to setup and interact with both indexers.
 
-**Result:**
+**Result:** [docs](https://docs.soroswap.finance/04-partners/01-mercury-subquery)
 ___
 
-### Deliverable 1.2
+### ✅ Deliverable 1.2
 **Description:** Set-up indexer node.
 
 **Reviewer Instructions:** Reviewer can make http requests to the indexer.
 Reviewer should visit docs section with quick examples of http requests.
 
-**Result:**
+**Result:** [mercury-sdk](https://github.com/paltalabs/mercury-sdk#instantiate)
 ___
-### Deliverable  1.3
+### ✅ Deliverable  1.3
 
 **Description:** Implement transactions identification algorithms.
 
 **Reviewer Instructions:** Reviewer can make requests to the indexer and check labels on transactions.
 Reviewer should visit docs section with quick examples of requests with returned data and labels. 
 
-**Result:**
+**Result:** [mercury-sdk](https://github.com/paltalabs/mercury-sdk#parse-data-results)
 ___
 
 
 # Deliverable 2: Transaction identification algorithm (open-source)
 
 
-### Deliverable 2.1
+### ✅Deliverable 2.1
 
 **Description:** Choose the 7 most common DeFi transactions.
 
 **Reviewer Instructions:** Reviewer should visit docs section.
 
-**Result:**
+**Result:**  [mercury-client](https://github.com/paltalabs/mercury-client#run-scripts)
 
 ___
-### Deliverable 2.2
+### ✅ Deliverable 2.2
 **Description:** Define and implement how these transactions should be identified (events?, which protocol standards?, Stellar Classic DEX, path payments, etc…)
 
 **Reviewer Instructions:** Reviewer should visit the repository and the docs page with examples on how the implemented algorithms are invoked.
 
-**Result:**
+**Result:** [mercury-sdk](https://github.com/paltalabs/mercury-sdk#retrieve-information)
 
 ___
-### Deliverable 2.3
+### ✅ Deliverable 2.3
 **Description:** Implement how these transactions should be identified (events?, which protocol standards?, Stellar Classic DEX, path payments, etc…)
 
 **Reviewer Instructions:** Reviewer should visit the repository and the docs page with examples on how the implemented algorithms are invoked.
 
-**Result:**
+**Result:** [mercury-sdk](https://github.com/paltalabs/mercury-sdk#parse-data-results)
 
 ___
-### Deliverable  2.4
+### ✅ Deliverable  2.4
 
 **Description:** Write an article about the chosen 7 DeFi transactions.
 
 **Reviewer Instructions:** Reviewer should visit the docs page for the article.
 
-**Result:**
+**Result:** [article](https://dev.to/soroswap/7-common-transactions-on-stellar-and-soroban-to-explore-using-mercury-and-how-to-retrieve-them-51ab)
 
 ___
 
