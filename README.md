@@ -9,7 +9,7 @@ Check the submission [here](https://communityfund.stellar.org/projects/soroswap-
 
 # Deliverables:
 
-## Deliverable 1: Indexer on Stellar/Soroban (open-source)
+# Deliverable 1: Indexer on Stellar/Soroban (open-source)
 
 Repository: [mercury-sdk](https://github.com/paltalabs/mercury-sdk)
 
@@ -107,7 +107,7 @@ ___
 
 
 ___
-### Deliverable 3.3
+### ✅ Deliverable 3.3
 
 **Description:** Users can see their on-chain transactions.
 
@@ -336,7 +336,7 @@ Reviewer can be given access to backend repo.
 **Result:**
 
 ___
-### Deliverable 4.12
+### ✅ Deliverable 4.12
 
 **Description:** Implement job to analyze non-native tokens that are not mapped to a QuickBooks currency, save them and notify them.
 
@@ -345,9 +345,10 @@ ___
 Reviewer can be given access to backend repo.
 
 **Result:**
+1. ✅ Reviewer can request us to write simple code with API call on frontend side.
 
 ___
-### Deliverable 4.13
+### ✅ Deliverable 4.13
 
 **Description:** API to request non mapped tokens yet saved on database.
 
@@ -356,6 +357,7 @@ ___
 Reviewer can be given access to backend repo.
 
 **Result:**
+1. ✅ Reviewer can request us to write simple code with API call on frontend side.
 
 ___
 ### Deliverable 4.14
