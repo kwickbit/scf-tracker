@@ -4,7 +4,7 @@ Public repository to track the progress and deliverables of KwickBit through SCF
 Check the submission [here](https://communityfund.stellar.org/projects/soroswap-protocol-scf-14)
 
 - Total expected: 400
-- Total completed (%): 25%
+- Total completed (%): 97%
 
 
 # Deliverables:
@@ -133,7 +133,7 @@ ___
 
 
 ___
-### Deliverable 3.5
+### ✅ Deliverable 3.5
 
 **Description:** Users can fetch their chart of accounts from QuickBooks.
 
@@ -149,7 +149,7 @@ UI to display chart of accounts implemented with mock data for now.
 
 
 ___
-### Deliverable 3.6
+### ✅ Deliverable 3.6
 
 **Description:** Users can fetch their invoices/bills from QuickBooks.
 
@@ -166,7 +166,7 @@ UI to display chart of invoices/bills implemented with mock data for now.
 
 
 ___
-### Deliverable 3.7
+### ✅ Deliverable 3.7
 
 **Description:** Users can set mapping of non-native tokens and lumens their to QuickBooks currencies.
 
@@ -174,19 +174,27 @@ ___
 
 **Result:** In Progress
 
-UI to display map setting modal implemented with mock data for now.
-
-1. ✅ Not merged yet, please see ticket [ticket 14](https://github.com/kwickbit/kwickbit_frontend_v0/issues/14)
+1. ✅ Reviewer can set mapping token/crypto-currency by clicking 'Settings' button in QuickBooks card
+at [KwickBit App Integrations page](https://app.dev.host.kwickbit.com/integrations) (reviewer must have connected
+his/her QuickBooks account)
 
 
 ___
-### Deliverable 3.8
+### ✅ Deliverable 3.8
 
 **Description:** Users can publish their transactions to Quickbooks from the app.
 
 **Reviewer Instructions:** Reviewer can push his/her transaction to QuickBooks accounts/ledgers.
 
 **Result:**
+1. ✅ Reviewer can publish transaction to QuickBooks by clicking 'View' button in
+at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions)
+and then choose type of transaction:
+- Income or Invoice with corresponding Account or Invoice reference for incoming transactions
+- Expense of Bill with corresponding Item or Bill reference for outgoing transaction.
+- Swap for swap transactions.
+(reviewer must have connected his/her QuickBooks account)
+
 
 
 ## Deliverable 4: Backend
@@ -325,7 +333,7 @@ Reviewer can also be given access to backend repo.
 1. ✅ Reviewer can request us to write simple code with API call on frontend side.
 
 ___
-### Deliverable 4.11
+### ✅ Deliverable 4.11
 
 **Description:** Implement callable job to publish transaction (whether using invoice, bill or ledger reference) from QuickBooks and save status to database.
 
@@ -334,6 +342,13 @@ ___
 Reviewer can be given access to backend repo.
 
 **Result:**
+1. ✅ Reviewer can publish transaction to QuickBooks by clicking 'View' button in
+   at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions)
+   and then choose type of transaction:
+- Income or Invoice with corresponding Account or Invoice reference for incoming transactions
+- Expense of Bill with corresponding Item or Bill reference for outgoing transaction.
+- Swap for swap transactions.
+  (reviewer must have connected his/her QuickBooks account)
 
 ___
 ### ✅ Deliverable 4.12
@@ -360,7 +375,7 @@ Reviewer can be given access to backend repo.
 1. ✅ Reviewer can request us to write simple code with API call on frontend side.
 
 ___
-### Deliverable 4.14
+### ✅ Deliverable 4.14
 
 **Description:** Add QuickBooks transactions integrations information on transactions.
 
@@ -368,3 +383,5 @@ ___
 Reviewer can also be given access to backend repo.
 
 **Result:**
+1. ✅ Reviewer can see transaction's status for a specific transaction by clicking 'View' button in
+   at [KwickBit App Transactions page](https://app.dev.host.kwickbit.com/transactions).
