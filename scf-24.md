@@ -4,7 +4,7 @@ Public repository to track the progress and deliverables of KwickBit through SCF
 
 Check the submission [here](https://communityfund.stellar.org/dashboard/submissions/recrcyLc9CBiDZ8Ev).
 
-- **Total Completed (%):** 0%
+- **Total Completed (%):** 15%
 
 ---
 
@@ -82,9 +82,9 @@ Implement a traditional accounting reconciliation process tailored for crypto tr
 
 ---
 
-### Deliverable 5: API for Historical Data & Reports
+### ✅ Deliverable 5: API for Historical Data & Reports
 
-#### Deliverable 5.1
+#### ✅ Deliverable 5.1
 **Description:** Provide programmatic access to transaction data and reports.
 
 **Reviewer Instructions:**
