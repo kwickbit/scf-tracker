@@ -4,7 +4,7 @@ Public repository to track the progress and deliverables of KwickBit through SCF
 
 Check the submission [here](https://communityfund.stellar.org/dashboard/submissions/recrcyLc9CBiDZ8Ev).
 
-- **Total Completed (%):** 15%
+- **Total Completed (%):** 30%
 
 ---
 
@@ -106,14 +106,18 @@ Implement a traditional accounting reconciliation process tailored for crypto tr
 
 ---
 
-### Deliverable 7: UX/UI Community Feedback Initiative
+### ✅ Deliverable 7: UX/UI Community Feedback Initiative
 
-#### Deliverable 7.1
+#### ✅ Deliverable 7.1
 **Description:** Conduct surveys and collect feedback on the user interface.
 
 **Reviewer Instructions:**
 - Review feedback summaries and proposed UI changes.
 - Validate alignment with user needs.
+
+**Results:** Decided to pivot to another product as surveys revealed that the business potential
+for a crypto accounting tool targeting small and medium businesses is low. However, we will continue
+to develop and release everything as open source to provide significant value to the community.
 
 ---
 
