@@ -4,7 +4,7 @@ Public repository to track the progress and deliverables of KwickBit through SCF
 
 Check the submission [here](https://communityfund.stellar.org/dashboard/submissions/recrcyLc9CBiDZ8Ev).
 
-- **Total Completed (%):** 30%
+- **Total Completed (%):** 45%
 
 ---
 
@@ -69,10 +69,10 @@ Implement a traditional accounting reconciliation process tailored for crypto tr
 
 ---
 
-### Deliverable 4: Financial Reporting Module
+### ✅ Deliverable 4: Financial Reporting Module
 
 
-#### Deliverable 4.1
+#### ✅ Deliverable 4.1
 **Description:** Generate reports on realized/unrealized profits.
 
 **Reviewer Instructions:**
