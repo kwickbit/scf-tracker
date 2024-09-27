@@ -36,7 +36,7 @@ Create a mini library for programmatic interaction with Soroswap protocol.
 
 ---
 
-### Deliverable 2: Crypto Reconciliation System
+### ✅ Deliverable 2: Crypto Reconciliation System
 
 #### ✅ Deliverable 2.1
 **Description:** Design reconciliation algorithms for crypto transactions.
@@ -46,14 +46,14 @@ Implement a traditional accounting reconciliation process tailored for crypto tr
 - Review the algorithms implemented for reconciliation.
 - Validate accuracy by testing sample transactions.
 
-
-
-#### Deliverable 2.2
+#### ✅ Deliverable 2.2
 **Description:** Create a tutorial to showcase the reconciliation process.
 
 **Reviewer Instructions:**
 - Read the tutorial and replicate the process using sample data.
 - Validate clarity and reproducibility.
+
+**Result:** https://youtu.be/oB55Xu6r6u8
 
 ---
 
