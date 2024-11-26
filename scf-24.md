@@ -4,7 +4,7 @@ Public repository to track the progress and deliverables of KwickBit through SCF
 
 Check the submission [here](https://communityfund.stellar.org/dashboard/submissions/recrcyLc9CBiDZ8Ev).
 
-- **Total Completed (%):** 45%
+- **Total Completed (%):** 65%
 
 ---
 
@@ -12,9 +12,9 @@ Check the submission [here](https://communityfund.stellar.org/dashboard/submissi
 
 ---
 
-### Deliverable 1: Integration with Soroban Financial Protocols
+### ✅ Deliverable 1: Integration with Soroban Financial Protocols
 
-#### Deliverable 1.1
+#### ✅ Deliverable 1.1
 **Description:** Research and review the Soroban protocols (Soroswap, Mozartpay) for seamless integration.
 Create a mini library for programmatic interaction with Soroswap protocol.
 
@@ -23,6 +23,8 @@ Create a mini library for programmatic interaction with Soroswap protocol.
 - Validate research output and integration plan.
 - Review the source code
 - Watch tutorial video
+
+**Result:** Source code at [github repo](https://github.com/kwickbit/soroswap-utils)
 
 
 #### Deliverable 1.2
