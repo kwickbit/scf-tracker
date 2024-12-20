@@ -4,7 +4,7 @@ Public repository to track the progress and deliverables of KwickBit through SCF
 
 Check the submission [here](https://communityfund.stellar.org/dashboard/submissions/recrcyLc9CBiDZ8Ev).
 
-- **Total Completed (%):** 65%
+- **Total Completed (%):** 85%
 
 ---
 
@@ -96,14 +96,16 @@ Implement a traditional accounting reconciliation process tailored for crypto tr
 
 ---
 
-### Deliverable 6: Fiat Currency Conversion Feature
+### ✅ Deliverable 6: Fiat Currency Conversion Feature
 
-#### Deliverable 6.1
+#### ✅ Deliverable 6.1
 **Description:** Real-time conversion of Stellar assets to domestic fiat currencies.
 
 **Reviewer Instructions:**
 - Test the conversion feature using sample transactions.
 - Verify accuracy against external benchmarks.
+
+**Result:** Source code at [github repo](https://github.com/kwickbit/mercury-indexer-asset-price-estimator)
 
 
 ---
